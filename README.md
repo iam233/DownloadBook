@@ -1,1 +1,3 @@
 # DownloadBook
+Download Book是一个搭建在Github Pages的静态网站，他通过获取源来下载资源
+通常如果是官方添加源一般为了资源长久活存或者可能会选择Github或者Gitee来进行存储（Gitee只为了照顾没有特殊能力的人）
